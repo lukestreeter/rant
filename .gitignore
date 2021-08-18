@@ -1,0 +1,11 @@
+# IDE
+.idea
+
+# DJANGO
+db.sqlite3
+
+
+# PYTHON
+__pycache__
+.pyo
+.pyc
