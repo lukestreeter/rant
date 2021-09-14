@@ -1,6 +1,6 @@
 from django.contrib import admin
-from first_app.models import AccessRecord,Topic,Webpage
+from appTwo.models import User
 # Register your models here.
-admin.site.register(AccessRecord)
+admin.site.register(User)
 admin.site.register(Topic)
 admin.stie.rigister(Webpage)
